@@ -1,5 +1,7 @@
 # Packets Processing Architectures Benchmark
 
+![Teaser](data_analysis/setup_benchmark.png)
+
 ## Overview
 
 This repository contains the code and results from the Bachelor Thesis "A practical comparison of packets' processing architectures" by Virgilio Strozzi (September 2022).
@@ -24,6 +26,7 @@ The following packet processing architectures were benchmarked (using perf tool)
 - **PsPIN** (Processing in Smart Network Interface Cards) - Hardware-accelerated processing
 - **NVIDIA BlueField-2 DPU** - Specialized Data Processing Unit for offloading packet processing
 
+![Teaser](data_analysis/PsPIN_plot.png)
 
 ## Original Work
 
