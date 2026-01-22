@@ -29,7 +29,7 @@ The following packet processing architectures were benchmarked (using perf tool)
 
 This work is part of the SPCL (Scalable Parallel Computing Lab) group at ETH Zurich. 
 
-**Original repository**: https://spclgitlab.ethz. ch/explore/
+**Original repository**: https://spclgitlab.ethz.ch/explore/
 
 ## Citation
 
