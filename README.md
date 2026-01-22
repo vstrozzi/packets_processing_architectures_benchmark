@@ -1,6 +1,6 @@
 # Packets Processing Architectures Benchmark
 
-![Teaser](data_analysis/setup_benchmark.png)
+![Teaser](data-analysis/setup_benchmark.png)
 
 ## Overview
 
@@ -26,7 +26,7 @@ The following packet processing architectures were benchmarked (using perf tool)
 - **PsPIN** (Processing in Smart Network Interface Cards) - Hardware-accelerated processing
 - **NVIDIA BlueField-2 DPU** - Specialized Data Processing Unit for offloading packet processing
 
-![Teaser](data_analysis/PsPIN_plot.png)
+![Teaser](data-analysis/PsPIN_plot.png)
 
 ## Original Work
 
